@@ -16,3 +16,12 @@ Example of changes made to cloned repo. See https://github.com/ChNgineer/ChNgine
 
 ![Alt text](images/activity2-2.png)
 
+# Activity 3
+
+Proof of changes made to the repository. Changes were made to https://github.com/ChNgineer/ChNgineer.github.io/tree/master/index.html and https://github.com/ChNgineer/ChNgineer.github.io/tree/master/assets/css/style.css
+
+![Alt text](images/activity3-1.png)
+
+Proof of colour changes made to webpage. See https://github.com/ChNgineer/ChNgineer.github.io/tree/master/images for more examples.
+
+![Alt text](images/activity3-2.png)

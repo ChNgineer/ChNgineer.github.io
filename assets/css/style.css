@@ -258,7 +258,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 
 ul.side-nav.fixed li.logo {
   background-color: grey;
-  border-bottom: 1px solid dimgrey
+  border-bottom: 1px solid dimgrey;
   box-sizing: content-box;
   min-height: 90px;
   padding: 30px 30px 40px;

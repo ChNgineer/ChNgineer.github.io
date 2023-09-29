@@ -59,7 +59,7 @@
 }
 
 .angellist {
-  color: grey;
+  color: white;
 }
 
 .icon-btn:hover {
@@ -72,7 +72,7 @@
 }
 
 .angellist:hover {
-  background-color: grey;
+  background-color: white;
 }
 
 .github:hover {
@@ -597,7 +597,7 @@ small {
     width: 100%;
   }
   nav {
-    background: #808080;
+    background: #fff;
     height: 64px;
     position: absolute;
   }

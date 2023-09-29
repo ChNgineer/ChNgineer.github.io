@@ -25,3 +25,13 @@ Proof of changes made to the repository. Changes were made to https://github.com
 Proof of colour changes made to webpage. See https://github.com/ChNgineer/ChNgineer.github.io/tree/master/images for more examples.
 
 ![Alt text](images/activity3-2.png)
+
+# Actiity 4
+
+Proof of changes made to the repository. Changes were mdae to https://github.com/ChNgineer/ChNgineer.github.io/tree/master/index.html. Following https://vibrantwebs.medium.com/google-maps-html-embed-with-multiple-locations-and-custom-markers-free-eab8fbce7f9a.
+
+![Alt text](images/activity4-1.png)
+
+Final Result
+
+![Alt text](images/activity4-2.png)

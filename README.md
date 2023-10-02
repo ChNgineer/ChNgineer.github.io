@@ -12,6 +12,10 @@ Proof of changes made to the repository, check commits for more. Multiple update
 
 ![Alt text](images/activity2-1.png)
 
+Example of changed code section:
+
+![Alt text](images/activity2-6.png)
+
 Example of changes made to cloned repo. See https://github.com/ChNgineer/ChNgineer.github.io/tree/master/images for more screenshots of the website.
 
 ![Alt text](images/activity2-2.png)
@@ -22,6 +26,10 @@ Proof of changes made to the repository. Changes were made to https://github.com
 
 ![Alt text](images/activity3-1.png)
 
+Example of changed css code for colour:
+
+![Alt text](images/activity3-5.png)
+
 Proof of colour changes made to webpage. See https://github.com/ChNgineer/ChNgineer.github.io/tree/master/images for more examples.
 
 ![Alt text](images/activity3-2.png)
@@ -31,6 +39,10 @@ Proof of colour changes made to webpage. See https://github.com/ChNgineer/ChNgin
 Proof of changes made to the repository. Changes were mdae to https://github.com/ChNgineer/ChNgineer.github.io/tree/master/index.html. Following https://vibrantwebs.medium.com/google-maps-html-embed-with-multiple-locations-and-custom-markers-free-eab8fbce7f9a.
 
 ![Alt text](images/activity4-1.png)
+
+Changed code: 
+
+![Alt text](images/activity4-3.png)
 
 Final Result
 
